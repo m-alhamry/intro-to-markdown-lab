@@ -78,7 +78,7 @@ div p {
   margin-left: 20px;
 }
 ```
-This adds a left margin to all ``<p>` elements inside `<div>` elements.
+This adds a left margin to all `<p>` elements inside `<div>` elements.
 
 ### Child Selector
 Targets direct children using **>**:
